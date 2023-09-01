@@ -17,15 +17,15 @@ My focus is on the application of both classical and quantum statistical/computa
 Publications \[Author Order is Alphabetical unless specified by an asterisk (*)\]
 ======
 1. ### Efficient Learning of Quantum States Prepared With Few Non-Clifford Gates II: Single-Copy Measurements
-[Vishnu Iyer](https://vishnuiyer.org/), [Sabee Grewal](https://sabeegrewal.com/), [William Kretschmer](https://www.cs.utexas.edu/~kretsch/), **Daniel Liang**<br />[[arXiv]](https://arxiv.org/abs/2308.07175)
+[Sabee Grewal](https://sabeegrewal.com/), [Vishnu Iyer](https://vishnuiyer.org/), [William Kretschmer](https://www.cs.utexas.edu/~kretsch/), **Daniel Liang**<br />[[arXiv]](https://arxiv.org/abs/2308.07175)
 1. ### Efficient Learning of Quantum States Prepared With Few Non-Clifford Gates
-[Vishnu Iyer](https://vishnuiyer.org/), [Sabee Grewal](https://sabeegrewal.com/), [William Kretschmer](https://www.cs.utexas.edu/~kretsch/), **Daniel Liang**<br />[[arXiv]](https://arxiv.org/abs/2305.13409)
+[Sabee Grewal](https://sabeegrewal.com/), [Vishnu Iyer](https://vishnuiyer.org/), [William Kretschmer](https://www.cs.utexas.edu/~kretsch/), **Daniel Liang**<br />[[arXiv]](https://arxiv.org/abs/2305.13409)
 1. ### Clifford Circuits can be Properly PAC Learned if and only if RP=NP
 **Daniel Liang**<br />Quantum 7, 1036<br />[[arXiv]](https://arxiv.org/abs/2204.06638)[[Quantum]](https://doi.org/10.22331/q-2023-06-07-1036)
 1. ### Improved Stabilizer Estimation via Bell Difference Sampling
-[Vishnu Iyer](https://vishnuiyer.org/), [Sabee Grewal](https://sabeegrewal.com/), [William Kretschmer](https://www.cs.utexas.edu/~kretsch/), **Daniel Liang**<br />[[arXiv]](https://arxiv.org/abs/2304.13915)
+[Sabee Grewal](https://sabeegrewal.com/), [Vishnu Iyer](https://vishnuiyer.org/), [William Kretschmer](https://www.cs.utexas.edu/~kretsch/), **Daniel Liang**<br />[[arXiv]](https://arxiv.org/abs/2304.13915)
 1. ### Low-Stabilizer-Complexity Quantum States Are Not Pseudorandom
-[Vishnu Iyer](https://vishnuiyer.org/), [Sabee Grewal](https://sabeegrewal.com/), [William Kretschmer](https://www.cs.utexas.edu/~kretsch/), **Daniel Liang**<br />14th Innovations in Theoretical Computer Science Conference (ITCS 2023)<br />**ITCS 2023 Best Student Paper Award**<br />[[arXiv]](https://arxiv.org/abs/2209.14530)[[ITCS 2023]](https://doi.org/10.4230/LIPIcs.ITCS.2023.64)
+[Sabee Grewal](https://sabeegrewal.com/), [Vishnu Iyer](https://vishnuiyer.org/), [William Kretschmer](https://www.cs.utexas.edu/~kretsch/), **Daniel Liang**<br />14th Innovations in Theoretical Computer Science Conference (ITCS 2023)<br />**ITCS 2023 Best Student Paper Award**<br />[[arXiv]](https://arxiv.org/abs/2209.14530)[[ITCS 2023]](https://doi.org/10.4230/LIPIcs.ITCS.2023.64)
 1. ### On the Hardness of PAC-learning stabilizer States with Noise
 [Aravind Gollakota](https://www.cs.utexas.edu/~aravindg/), **Daniel Liang**<br />Quantum 6, 640 -- 2022<br />[[arXiv]](https://arxiv.org/abs/2102.05174)[[Quantum]](https://doi.org/10.22331%2Fq-2022-02-02-640)
 1. ### * Investigating quantum approximate optimization algorithms under bang-bang protocols
