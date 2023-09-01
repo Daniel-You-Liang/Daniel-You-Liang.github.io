@@ -17,7 +17,7 @@ My focus is on the application of both classical and quantum statistical/computa
 Publications \[Author Order is Alphabetical unless specified by an asterisk (*)\]
 ======
 1. ### Efficient Learning of Quantum States Prepared With Few Non-Clifford Gates II: Single-Copy Measurements
-Vishnu Iyer, Sabee Grewal, William Kretschmer, Daniel Liang<br />[[arXiv]](https://arxiv.org/abs/2308.07175)
+[Vishnu Iyer](https://vishnuiyer.org/), Sabee Grewal, William Kretschmer, Daniel Liang<br />[[arXiv]](https://arxiv.org/abs/2308.07175)
 1. ### Efficient Learning of Quantum States Prepared With Few Non-Clifford Gates
 Vishnu Iyer, Sabee Grewal, William Kretschmer, Daniel Liang<br />[[arXiv]](https://arxiv.org/abs/2305.13409)
 1. ### Clifford Circuits can be Properly PAC Learned if and only if RP=NP
@@ -25,11 +25,11 @@ Daniel Liang<br />Quantum 7, 1036<br />[[link]](https://quantum-journal.org/pape
 1. ### Improved Stabilizer Estimation via Bell Difference Sampling
 Vishnu Iyer, Sabee Grewal, William Kretschmer, Daniel Liang<br />[[arXiv]](https://arxiv.org/abs/2304.13915)
 1. ### Low-Stabilizer-Complexity Quantum States Are Not Pseudorandom
-Vishnu Iyer, Sabee Grewal, William Kretschmer, Daniel Liang<br />14th Innovations in Theoretical Computer Science Conference (ITCS 2023)<br />[[link]](https://drops.dagstuhl.de/opus/volltexte/2023/17567/)
+Vishnu Iyer, Sabee Grewal, William Kretschmer, Daniel Liang<br />14th Innovations in Theoretical Computer Science Conference (ITCS 2023)<br />[[arXiv]](https://arxiv.org/abs/2209.14530)[[ITCS 2023]](https://doi.org/10.4230/LIPIcs.ITCS.2023.64)
 1. ### On the Hardness of PAC-learning stabilizer States with Noise
-Aravind Gollakota, Daniel Liang<br />Quantum 6, 640<br />[[link]](https://quantum-journal.org/papers/q-2022-02-02-640/)
-1. ### Investigating quantum approximate optimization algorithms under bang-bang protocols*
-Daniel Liang, Li Li, Stefan Leichenauer<br />Physical Review Research 2 (3)<br />[[link]](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.033402)
-1. ### Simulation of qubit quantum circuits via Pauli propagation*
-Patrick Rall, Daniel Liang, Jeremy Cook, William Kretschmer<br />Physical Review A 99 (6)<br />[[link]](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.99.062337)
+Aravind Gollakota, Daniel Liang<br />Quantum 6, 640<br />[[arXiv]](https://arxiv.org/abs/2102.05174)[[Quantum]](https://doi.org/10.22331%2Fq-2022-02-02-640)
+1. ### Investigating quantum approximate optimization algorithms under bang-bang protocols
+Daniel Liang*, Li Li*, Stefan Leichenauer*<br />Physical Review Research 2 (3)<br />[[arXiv]](https://arxiv.org/abs/2005.13103)[[PRR]](https://doi.org/10.1103%2Fphysrevresearch.2.033402)
+1. ### Simulation of qubit quantum circuits via Pauli propagation
+Patrick Rall*, Daniel Liang*, Jeremy Cook*, William Kretschmer*<br />Physical Review A 99 (6)<br />[[arXiv]](https://arxiv.org/abs/1901.09070)[[PRA]](https://doi.org/10.1103%2Fphysreva.99.062337)
 {: reversed="reversed"}
