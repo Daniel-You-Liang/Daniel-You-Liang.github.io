@@ -17,19 +17,19 @@ My focus is on the application of both classical and quantum statistical/computa
 Publications \[Author Order is Alphabetical unless specified by an asterisk (*)\]
 ======
 1. ### Efficient Learning of Quantum States Prepared With Few Non-Clifford Gates II: Single-Copy Measurements
-[Vishnu Iyer](https://vishnuiyer.org/), [Sabee Grewal](https://sabeegrewal.com/), [William Kretschmer](https://www.cs.utexas.edu/~kretsch/), Daniel Liang<br />[[arXiv]](https://arxiv.org/abs/2308.07175)
+[Vishnu Iyer](https://vishnuiyer.org/), [Sabee Grewal](https://sabeegrewal.com/), [William Kretschmer](https://www.cs.utexas.edu/~kretsch/), **Daniel Liang**<br />[[arXiv]](https://arxiv.org/abs/2308.07175)
 1. ### Efficient Learning of Quantum States Prepared With Few Non-Clifford Gates
-[Vishnu Iyer](https://vishnuiyer.org/), [Sabee Grewal](https://sabeegrewal.com/), [William Kretschmer](https://www.cs.utexas.edu/~kretsch/), Daniel Liang<br />[[arXiv]](https://arxiv.org/abs/2305.13409)
+[Vishnu Iyer](https://vishnuiyer.org/), [Sabee Grewal](https://sabeegrewal.com/), [William Kretschmer](https://www.cs.utexas.edu/~kretsch/), **Daniel Liang**<br />[[arXiv]](https://arxiv.org/abs/2305.13409)
 1. ### Clifford Circuits can be Properly PAC Learned if and only if RP=NP
-Daniel Liang<br />Quantum 7, 1036<br />[[Quantum]](https://doi.org/10.22331/q-2023-06-07-1036)
+**Daniel Liang**<br />Quantum 7, 1036<br />[[arXiv]](https://arxiv.org/abs/2204.06638)[[Quantum]](https://doi.org/10.22331/q-2023-06-07-1036)
 1. ### Improved Stabilizer Estimation via Bell Difference Sampling
-[Vishnu Iyer](https://vishnuiyer.org/), [Sabee Grewal](https://sabeegrewal.com/), [William Kretschmer](https://www.cs.utexas.edu/~kretsch/), Daniel Liang<br />[[arXiv]](https://arxiv.org/abs/2304.13915)
+[Vishnu Iyer](https://vishnuiyer.org/), [Sabee Grewal](https://sabeegrewal.com/), [William Kretschmer](https://www.cs.utexas.edu/~kretsch/), **Daniel Liang**<br />[[arXiv]](https://arxiv.org/abs/2304.13915)
 1. ### Low-Stabilizer-Complexity Quantum States Are Not Pseudorandom
-[Vishnu Iyer](https://vishnuiyer.org/), [Sabee Grewal](https://sabeegrewal.com/), [William Kretschmer](https://www.cs.utexas.edu/~kretsch/), Daniel Liang<br />14th Innovations in Theoretical Computer Science Conference (ITCS 2023)<br />ITCS 2023 Best Student Paper Award<br />[[arXiv]](https://arxiv.org/abs/2209.14530)[[ITCS 2023]](https://doi.org/10.4230/LIPIcs.ITCS.2023.64)
+[Vishnu Iyer](https://vishnuiyer.org/), [Sabee Grewal](https://sabeegrewal.com/), [William Kretschmer](https://www.cs.utexas.edu/~kretsch/), **Daniel Liang**<br />14th Innovations in Theoretical Computer Science Conference (ITCS 2023)<br />**ITCS 2023 Best Student Paper Award**<br />[[arXiv]](https://arxiv.org/abs/2209.14530)[[ITCS 2023]](https://doi.org/10.4230/LIPIcs.ITCS.2023.64)
 1. ### On the Hardness of PAC-learning stabilizer States with Noise
-[Aravind Gollakota](https://www.cs.utexas.edu/~aravindg/), Daniel Liang<br />Quantum 6, 640<br />[[arXiv]](https://arxiv.org/abs/2102.05174)[[Quantum]](https://doi.org/10.22331%2Fq-2022-02-02-640)
+[Aravind Gollakota](https://www.cs.utexas.edu/~aravindg/), **Daniel Liang**<br />Quantum 6, 640 -- 2022<br />[[arXiv]](https://arxiv.org/abs/2102.05174)[[Quantum]](https://doi.org/10.22331%2Fq-2022-02-02-640)
 1. ### * Investigating quantum approximate optimization algorithms under bang-bang protocols
-Daniel Liang, Li Li, [Stefan Leichenauer](https://scholar.google.com/citations?user=U_zDsW0AAAAJ&hl=en)<br />Physical Review Research 2 (3)<br />[[arXiv]](https://arxiv.org/abs/2005.13103)[[PRR]](https://doi.org/10.1103%2Fphysrevresearch.2.033402)
+**Daniel Liang**, Li Li, [Stefan Leichenauer](https://scholar.google.com/citations?user=U_zDsW0AAAAJ&hl=en)<br />Physical Review Research 2 (3) -- 2020<br />[[arXiv]](https://arxiv.org/abs/2005.13103)[[PRR]](https://doi.org/10.1103%2Fphysrevresearch.2.033402)
 1. ### * Simulation of qubit quantum circuits via Pauli propagation
-[Patrick Rall](https://patrickrall.com/), Daniel Liang, Jeremy Cook, [William Kretschmer](https://www.cs.utexas.edu/~kretsch/)<br />Physical Review A 99 (6)<br />[[arXiv]](https://arxiv.org/abs/1901.09070)[[PRA]](https://doi.org/10.1103%2Fphysreva.99.062337)
+[Patrick Rall](https://patrickrall.com/), **Daniel Liang**, Jeremy Cook, [William Kretschmer](https://www.cs.utexas.edu/~kretsch/)<br />Physical Review A 99 (6) -- 2019<br />[[arXiv]](https://arxiv.org/abs/1901.09070)[[PRA]](https://doi.org/10.1103%2Fphysreva.99.062337)
 {: reversed="reversed"}
