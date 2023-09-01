@@ -14,7 +14,7 @@ Research Interests
 ======
 My focus is on the application of both classical and quantum statistical/computational learning theory to quantum problems. During my PhD, I focused on leveraging both analytic and algebraic properties of the stabilizer formalism to tackle topics such as PAC/SQ/Agnostic learning, property testing, tomography, and pseudorandomness. I am additionally broadly interested in quantum cryptography and pseudorandom quantum states, quantum query complexity, general quantum machine learning, and quantum complexity theory.
 
-Publications
+Publications \[Author Order is Alphabetical unless specified by an asterisk (*)\]
 ======
 1. ### Efficient Learning of Quantum States Prepared With Few Non-Clifford Gates II: Single-Copy Measurements
 Vishnu Iyer, Sabee Grewal, William Kretschmer, Daniel Liang<br />[[arXiv]](https://arxiv.org/abs/2308.07175)
@@ -28,7 +28,8 @@ Vishnu Iyer, Sabee Grewal, William Kretschmer, Daniel Liang<br />[[arXiv]](https
 Vishnu Iyer, Sabee Grewal, William Kretschmer, Daniel Liang<br />14th Innovations in Theoretical Computer Science Conference (ITCS 2023)<br />[[link]](https://drops.dagstuhl.de/opus/volltexte/2023/17567/)
 1. ### On the Hardness of PAC-learning stabilizer States with Noise
 Aravind Gollakota, Daniel Liang<br />Quantum 6, 640<br />[[link]](https://quantum-journal.org/papers/q-2022-02-02-640/)
-1. ### Investigating quantum approximate optimization algorithms under bang-bang protocols
+1. ### Investigating quantum approximate optimization algorithms under bang-bang protocols*
 Daniel Liang, Li Li, Stefan Leichenauer<br />Physical Review Research 2 (3)<br />[[link]](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.033402)
-1. ### Simulation of qubit quantum circuits via Pauli propagation
+1. ### Simulation of qubit quantum circuits via Pauli propagation*
 Patrick Rall, Daniel Liang, Jeremy Cook, William Kretschmer<br />Physical Review A 99 (6)<br />[[link]](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.99.062337)
+{: reversed="reversed"}
