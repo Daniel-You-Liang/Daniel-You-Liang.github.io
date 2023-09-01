@@ -8,23 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a data scientist applying machine learning tools and causal
-inference techniques to remote sensing data. I am also an affiliated
-researcher with the [Data-driven Analysis of Peace Project](https://dapp-lab.org)
-and a research collaborator with the 
-[Research on International Policy Implementation Lab](https://bridgingthegapproject.org/ripil).
+I am a Postdoctoral Fellow at Rice University under the supervision of Dr. Nai-Hui Chia. Previously, I did my PhD at UT Austin under the gracious supervision of Dr. Scott Aaronson. Prior to that, I received a Bachelor's of Science in Engineering from Cornell University in both Computer Science and Engineering Physics.
 
-I earned my Ph.D in Political Science from the
-[University *of* North Carolina *at* Chapel Hill](https://www.unc.edu) and my
-B.A. in Political Science from [Haverford College](https://www.haverford.edu).
-My academic work has been [published](publications) or is forthcoming in
-*International Studies Quarterly*, *Conflict Management and Peace Science*,
-*Political Science Research and Methods*, and *PS: Political Science & Politics*,
-among other outlets. This [research](research) explores the causes and
-consequences of political violence using a broad variety of methods such as
-latent variable models, geospatial analysis, and big data. While primarily
-focused on civil conflict, it also examines contentious political phenomena
-including terrorism and economic statecraft, and develops new measures of
-institutions in international relations. I have [teaching](teaching) experience
-in both quantitative methodology and international relations, and am a certified
-instructor with [The Carpentries](https://carpentries.org).
+Research Interests
+======
+My focus is on the application of both classical and quantum statistical/computational learning theory to quantum problems. During my PhD, I focused on leveraging both analytic and algebraic properties of the stabilizer formalism to tackle topics such as PAC/SQ/Agnostic learning, property testing, tomography, and pseudorandomness. I am additionally broadly interested in quantum cryptography and pseudorandom quantum states, quantum query complexity, general quantum machine learning, and quantum complexity theory.
