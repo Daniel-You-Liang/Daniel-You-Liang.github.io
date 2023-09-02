@@ -12,7 +12,7 @@ I am a Postdoctoral Fellow at Rice University under the supervision of [Nai-Hui 
 
 Research Interests
 ======
-My focus is on the application of both classical and quantum statistical/computational learning theory to quantum problems. During my PhD, I focused on leveraging both analytic and algebraic properties of the stabilizer formalism to tackle topics such as PAC/SQ/Agnostic learning, property testing, tomography, and pseudorandomness. I am additionally broadly interested in quantum cryptography and pseudorandom quantum states, quantum query complexity, general quantum machine learning, and quantum complexity theory.
+My focus is on the application of learning theory to quantum problems. That is, given some unknown quantum system, try and learn it, under varying definitions of the word "learn". During my PhD, I focused on leveraging properties of the stabilizer formalism to tackle topics such as tomography, PAC/SQ/Agnostic learning, property testing, and pseudorandomness. I am additionally broadly interested in quantum information, quantum complexity theory, and theoretical computer science.
 
 Publications \[Author Order is Alphabetical unless specified by an asterisk (*)\]
 ======
