@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Fellow at Rice University under the supervision of Dr. Nai-Hui Chia. Previously, I did my PhD at UT Austin under the gracious supervision of Dr. Scott Aaronson. Prior to that, I received a Bachelor of Science in Engineering from Cornell University in both Computer Science and Engineering Physics.
+I am a Postdoctoral Fellow at Rice University under the supervision of Dr. Nai-Hui Chia. Previously, I did my PhD at UT Austin whered I was advised by Dr. Scott Aaronson. Prior to that, I received a Bachelor of Science in Engineering from Cornell University in both Computer Science and Engineering Physics.
 
 Research Interests
 ======
