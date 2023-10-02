@@ -33,3 +33,8 @@ Publications \[Author Order is Alphabetical unless specified by an asterisk (*)\
 1. ### * Simulation of qubit quantum circuits via Pauli propagation
 [Patrick Rall](https://patrickrall.com/), **Daniel Liang**, Jeremy Cook, [William Kretschmer](https://www.cs.utexas.edu/~kretsch/)<br />Physical Review A 99 (6) -- 2019<br />[[arXiv]](https://arxiv.org/abs/1901.09070)[[PRA]](https://doi.org/10.1103%2Fphysreva.99.062337)
 {: reversed="reversed"}
+
+Dissertation
+======
+* ### On Computationally Efficient Learning for Stabilizers and Beyond
+[pdf](/files/pdf/Dissertation.pdf)
