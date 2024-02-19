@@ -20,10 +20,10 @@ Publications \[Author Order is Alphabetical unless specified by an asterisk (*)\
 [Sabee Grewal](https://sabeegrewal.com/), [Vishnu Iyer](https://vishnuiyer.org/), [William Kretschmer](https://www.cs.utexas.edu/~kretsch/), **Daniel Liang**<br />[[arXiv]](https://arxiv.org/abs/2308.07175)\[QIP 2024\]
 1. ### Efficient Learning of Quantum States Prepared With Few Non-Clifford Gates
 [Sabee Grewal](https://sabeegrewal.com/), [Vishnu Iyer](https://vishnuiyer.org/), [William Kretschmer](https://www.cs.utexas.edu/~kretsch/), **Daniel Liang**<br />[[arXiv]](https://arxiv.org/abs/2305.13409)\[QIP 2024\]
+1. ### Improved Stabilizer Estimation via Bell Difference Sampling
+[Sabee Grewal](https://sabeegrewal.com/), [Vishnu Iyer](https://vishnuiyer.org/), [William Kretschmer](https://www.cs.utexas.edu/~kretsch/), **Daniel Liang**<br />[[arXiv]](https://arxiv.org/abs/2304.13915)\[QIP 2024\]\[STOC 2024\]
 1. ### Clifford Circuits can be Properly PAC Learned if and only if RP=NP
 **Daniel Liang**<br />Quantum 7, 1036 -- 2023<br />[[arXiv]](https://arxiv.org/abs/2204.06638)[[Quantum]](https://doi.org/10.22331/q-2023-06-07-1036)
-1. ### Improved Stabilizer Estimation via Bell Difference Sampling
-[Sabee Grewal](https://sabeegrewal.com/), [Vishnu Iyer](https://vishnuiyer.org/), [William Kretschmer](https://www.cs.utexas.edu/~kretsch/), **Daniel Liang**<br />[[arXiv]](https://arxiv.org/abs/2304.13915)\[QIP 2024\]
 1. ### Low-Stabilizer-Complexity Quantum States Are Not Pseudorandom
 [Sabee Grewal](https://sabeegrewal.com/), [Vishnu Iyer](https://vishnuiyer.org/), [William Kretschmer](https://www.cs.utexas.edu/~kretsch/), **Daniel Liang**<br />14th Innovations in Theoretical Computer Science Conference (ITCS 2023)<br />**ITCS 2023 Best Student Paper Award**<br />[[arXiv]](https://arxiv.org/abs/2209.14530)[[ITCS 2023]](https://doi.org/10.4230/LIPIcs.ITCS.2023.64)
 1. ### On the Hardness of PAC-learning stabilizer States with Noise
