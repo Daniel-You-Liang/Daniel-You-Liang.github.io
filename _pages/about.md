@@ -37,5 +37,5 @@ Publications \[Author Order is Alphabetical unless specified by an asterisk (*)\
 Dissertation
 ======
 - ### On Computationally Efficient Learning for Stabilizers and Beyond
-[[pdf]](/files/pdf/Dissertation.pdf)
+[[Updated Version]](/files/pdf/Dissertation.pdf)[[Original Version]](https://doi.org/10.26153/tsw/49973)
 
