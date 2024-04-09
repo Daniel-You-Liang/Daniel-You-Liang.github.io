@@ -31,7 +31,7 @@ Publications \[Author Order is Alphabetical unless specified by an asterisk (*)\
 1. ### * Investigating quantum approximate optimization algorithms under bang-bang protocols
 **Daniel Liang**, Li Li, [Stefan Leichenauer](https://scholar.google.com/citations?user=U_zDsW0AAAAJ&hl=en)<br />Physical Review Research 2 (3) -- 2020<br />[[arXiv]](https://arxiv.org/abs/2005.13103)[[PRR]](https://doi.org/10.1103%2Fphysrevresearch.2.033402)
 1. ### * Simulation of qubit quantum circuits via Pauli propagation
-[Patrick Rall](https://patrickrall.com/), **Daniel Liang**, Jeremy Cook, [William Kretschmer](https://www.cs.utexas.edu/~kretsch/)<br />Physical Review A 99 (6) -- 2019<br />[[arXiv]](https://arxiv.org/abs/1901.09070)[[PRA]](https://doi.org/10.1103%2Fphysreva.99.062337)
+[Patrick Rall](https://patrickrall.com/), **Daniel Liang**, Jeremy Cook, [William Kretschmer](https://www.cs.utexas.edu/~kretsch/)<br />Physical Review A 99 (6) -- 2019<br />[[arXiv]](https://arxiv.org/abs/1901.09070)[[PRA](https://doi.org/10.1103%2Fphysreva.99.062337)]
 {: reversed="reversed"}
 
 Dissertation
