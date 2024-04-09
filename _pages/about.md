@@ -16,8 +16,10 @@ My focus is on the application of learning theory to quantum problems. That is, 
 
 Publications \[Author Order is Alphabetical unless specified by an asterisk (*)\]
 ======
-1. ### Efficient Learning of Quantum States Prepared With Few Non-Clifford Gates II: Single-Copy Measurements
-[Sabee Grewal](https://sabeegrewal.com/), [Vishnu Iyer](https://vishnuiyer.org/), [William Kretschmer](https://www.cs.utexas.edu/~kretsch/), **Daniel Liang**<br />[[arXiv]](https://arxiv.org/abs/2308.07175) \[QIP 2024\]
+1. ### Agnostic Tomography of Stabilizer Product States
+[Sabee Grewal](https://sabeegrewal.com/), [Vishnu Iyer](https://vishnuiyer.org/), [William Kretschmer](https://www.cs.utexas.edu/~kretsch/), **Daniel Liang**<br />[[arXiv]](https://arxiv.org/abs/2404.03813)
+1. ### Pseudoentanglement Ain't Cheap
+[Sabee Grewal](https://sabeegrewal.com/), [Vishnu Iyer](https://vishnuiyer.org/), [William Kretschmer](https://www.cs.utexas.edu/~kretsch/), **Daniel Liang**<br />[[arXiv]](https://arxiv.org/abs/2404.00126)
 1. ### Efficient Learning of Quantum States Prepared With Few Non-Clifford Gates
 [Sabee Grewal](https://sabeegrewal.com/), [Vishnu Iyer](https://vishnuiyer.org/), [William Kretschmer](https://www.cs.utexas.edu/~kretsch/), **Daniel Liang**<br />[[arXiv]](https://arxiv.org/abs/2305.13409) \[QIP 2024\]
 1. ### Improved Stabilizer Estimation via Bell Difference Sampling
