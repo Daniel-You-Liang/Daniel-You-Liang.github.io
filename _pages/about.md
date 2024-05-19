@@ -16,6 +16,8 @@ My focus is on the application of learning theory to quantum problems. That is, 
 
 Publications \[Author Order is Alphabetical unless specified by an asterisk (*)\]
 ======
+1. ### Quantum State Learning Implies Circuit Lower Bounds
+[Nai-Hui Chia](https://sites.google.com/view/naihuichia),  **Daniel Liang**, [Fang Song](https://fangsong.info/)<br />[[arXiv]](https://arxiv.org/abs/2405.10242) \[TQC 2024\]
 1. ### Agnostic Tomography of Stabilizer Product States
 [Sabee Grewal](https://sabeegrewal.com/), [Vishnu Iyer](https://vishnuiyer.org/), [William Kretschmer](https://www.cs.utexas.edu/~kretsch/), **Daniel Liang**<br />[[arXiv]](https://arxiv.org/abs/2404.03813)
 1. ### Pseudoentanglement Ain't Cheap
