@@ -17,11 +17,11 @@ My focus is on the application of learning theory to quantum problems. That is, 
 Publications \[Author Order is Alphabetical unless specified by an asterisk (*)\]
 ======
 1. ### Quantum State Learning Implies Circuit Lower Bounds
-[Nai-Hui Chia](https://sites.google.com/view/naihuichia),  **Daniel Liang**, [Fang Song](https://fangsong.info/)<br />[[arXiv]](https://arxiv.org/abs/2405.10242) \[TQC 2024\]
+[Nai-Hui Chia](https://sites.google.com/view/naihuichia),  **Daniel Liang**, [Fang Song](https://fangsong.info/)<br />[[arXiv]](https://arxiv.org/abs/2405.10242) [[TQC 2024]](https://youtu.be/kvKihUsu068?t=1672)
 1. ### Agnostic Tomography of Stabilizer Product States
 [Sabee Grewal](https://sabeegrewal.com/), [Vishnu Iyer](https://vishnuiyer.org/), [William Kretschmer](https://www.cs.utexas.edu/~kretsch/), **Daniel Liang**<br />[[arXiv]](https://arxiv.org/abs/2404.03813)
 1. ### Pseudoentanglement Ain't Cheap
-[Sabee Grewal](https://sabeegrewal.com/), [Vishnu Iyer](https://vishnuiyer.org/), [William Kretschmer](https://www.cs.utexas.edu/~kretsch/), **Daniel Liang**<br />[[arXiv]](https://arxiv.org/abs/2404.00126) \[TQC 2024\]
+[Sabee Grewal](https://sabeegrewal.com/), [Vishnu Iyer](https://vishnuiyer.org/), [William Kretschmer](https://www.cs.utexas.edu/~kretsch/), **Daniel Liang**<br />[[arXiv]](https://arxiv.org/abs/2404.00126) [[TQC 2024]](https://youtu.be/hDzR-RGZzes?t=6944)
 1. ### Efficient Learning of Quantum States Prepared With Few Non-Clifford Gates
 [Sabee Grewal](https://sabeegrewal.com/), [Vishnu Iyer](https://vishnuiyer.org/), [William Kretschmer](https://www.cs.utexas.edu/~kretsch/), **Daniel Liang**<br />[[arXiv]](https://arxiv.org/abs/2305.13409) [[QIP 2024]](https://www.youtube.com/watch?v=FsBSuAEOkVY)
 1. ### Improved Stabilizer Estimation via Bell Difference Sampling
