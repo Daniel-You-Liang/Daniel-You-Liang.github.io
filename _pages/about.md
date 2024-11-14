@@ -16,6 +16,8 @@ My focus is on the application of learning theory to quantum problems. That is, 
 
 Publications \[Author Order is Alphabetical unless specified by an asterisk (*)\]
 ======
+1. ### Tolerant Testing of Stabilizer States with Mixed State Inputs
+[Vishnu Iyer](https://vishnuiyer.org/), **Daniel Liang**<br />[[arXiv]](https://arxiv.org/abs/2411.08765)
 1. ### Quantum State Learning Implies Circuit Lower Bounds
 [Nai-Hui Chia](https://sites.google.com/view/naihuichia),  **Daniel Liang**, [Fang Song](https://fangsong.info/)<br />[[arXiv]](https://arxiv.org/abs/2405.10242) [[TQC 2024]](https://youtu.be/kvKihUsu068?t=1672)
 1. ### Agnostic Tomography of Stabilizer Product States
