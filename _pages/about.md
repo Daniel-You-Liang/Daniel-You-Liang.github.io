@@ -19,13 +19,13 @@ Publications \[Author Order is Alphabetical unless specified by an asterisk (*)\
 1. ### Tolerant Testing of Stabilizer States with Mixed State Inputs
 [Vishnu Iyer](https://vishnuiyer.org/), **Daniel Liang**<br />[[arXiv]](https://arxiv.org/abs/2411.08765)
 1. ### Quantum State Learning Implies Circuit Lower Bounds
-[Nai-Hui Chia](https://sites.google.com/view/naihuichia),  **Daniel Liang**, [Fang Song](https://fangsong.info/)<br />[[arXiv]](https://arxiv.org/abs/2405.10242) [[TQC 2024]](https://youtu.be/kvKihUsu068?t=1672)
+[Nai-Hui Chia](https://sites.google.com/view/naihuichia),  **Daniel Liang**, [Fang Song](https://fangsong.info/)<br />[[arXiv]](https://arxiv.org/abs/2405.10242) [[TQC 2024]](https://www.youtube.com/watch?v=HMrqT0Svfzs)
 1. ### Agnostic Tomography of Stabilizer Product States
 [Sabee Grewal](https://sabeegrewal.com/), [Vishnu Iyer](https://vishnuiyer.org/), [William Kretschmer](https://wkretschmer.github.io/), **Daniel Liang**<br />[[arXiv]](https://arxiv.org/abs/2404.03813)
 1. ### Pseudoentanglement Ain't Cheap
-[Sabee Grewal](https://sabeegrewal.com/), [Vishnu Iyer](https://vishnuiyer.org/), [William Kretschmer](https://wkretschmer.github.io/), **Daniel Liang**<br />[[arXiv]](https://arxiv.org/abs/2404.00126) [[TQC 2024]](https://youtu.be/hDzR-RGZzes?t=6944)
+[Sabee Grewal](https://sabeegrewal.com/), [Vishnu Iyer](https://vishnuiyer.org/), [William Kretschmer](https://wkretschmer.github.io/), **Daniel Liang**<br />[[arXiv]](https://arxiv.org/abs/2404.00126) [[TQC 2024]](https://www.youtube.com/watch?v=ixe-9UQsGU8)
 1. ### Efficient Learning of Quantum States Prepared With Few Non-Clifford Gates
-[Sabee Grewal](https://sabeegrewal.com/), [Vishnu Iyer](https://vishnuiyer.org/), [William Kretschmer](https://wkretschmer.github.io/), **Daniel Liang**<br />[[arXiv]](https://arxiv.org/abs/2305.13409) [[QIP 2024]](https://www.youtube.com/watch?v=FsBSuAEOkVY)
+[Sabee Grewal](https://sabeegrewal.com/), [Vishnu Iyer](https://vishnuiyer.org/), [William Kretschmer](https://wkretschmer.github.io/), **Daniel Liang**<br />[[arXiv]](https://arxiv.org/abs/2305.13409) [[QIP 2024]](https://www.youtube.com/watch?v=FsBSuAEOkVY) [[IPAM]](https://www.youtube.com/watch?v=TxRXHIHmSZU)
 1. ### Improved Stabilizer Estimation via Bell Difference Sampling
 [Sabee Grewal](https://sabeegrewal.com/), [Vishnu Iyer](https://vishnuiyer.org/), [William Kretschmer](https://wkretschmer.github.io/), **Daniel Liang**<br />Proceedings
 of the 56th Annual ACM Symposium on Theory of Computing (STOC 2024)<br />[[arXiv]](https://arxiv.org/abs/2304.13915) [[QIP 2024]](https://www.youtube.com/watch?v=FsBSuAEOkVY) [[STOC 2024]](https://doi.org/10.1145/3618260.3649738) 
