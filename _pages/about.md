@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Reseacher jointly supervised by Dr. [Nai-Hui Chia](https://sites.google.com/view/naihuichia) at Rice University and Dr. [Fang Song](https://fangsong.info/) at Portland State University. I earned a PhD in Computer Science at UT Austin while advised by [Scott Aaronson](https://www.scottaaronson.com/). Prior to that, I received a Bachelor of Science in Engineering from Cornell University in both Computer Science and Engineering Physics.
+I am a Postdoctoral Researcher jointly supervised by Dr. [Nai-Hui Chia](https://sites.google.com/view/naihuichia) at Rice University and Dr. [Fang Song](https://fangsong.info/) at Portland State University. I earned a PhD in Computer Science at UT Austin while advised by [Scott Aaronson](https://www.scottaaronson.com/). Prior to that, I received a Bachelor of Science in Engineering from Cornell University in both Computer Science and Engineering Physics.
 
 Research Interests
 ======
