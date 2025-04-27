@@ -12,7 +12,7 @@ I am a Postdoctoral Researcher jointly supervised by Dr. [Nai-Hui Chia](https://
 
 Research Interests
 ======
-My focus is on the application of learning theory to quantum problems. That is, given some unknown quantum system, try and learn it, under varying definitions of the word "learn". During my PhD, I focused on leveraging properties of the stabilizer formalism to tackle topics such as tomography, PAC/SQ/Agnostic learning, property testing, and pseudorandomness. I am additionally broadly interested in quantum information, quantum complexity theory, and theoretical computer science.
+I am broadly interesting in quantum computing, complexity theory, and learning theory, with a focus on questions of how to time-efficiently extract information from unknown quantum systems. Motivations include algorithms to discover new kinds of physics, benchmark quantum computers, and understanding the limits of quantum computation itself. 
 
 Publications \[Author Order is Alphabetical unless specified by an asterisk (*)\]
 ======
