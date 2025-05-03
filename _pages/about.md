@@ -21,7 +21,7 @@ Publications \[Author Order is Alphabetical unless specified by an asterisk (*)\
 1. ### Tolerant Testing of Stabilizer States with Mixed State Inputs
 [Vishnu Iyer](https://vishnuiyer.org/), **Daniel Liang**<br />[[arXiv]](https://arxiv.org/abs/2411.08765)
 1. ### Quantum State Learning Implies Circuit Lower Bounds
-[Nai-Hui Chia](https://sites.google.com/view/naihuichia),  **Daniel Liang**, [Fang Song](https://fangsong.info/)<br />[[arXiv]](https://arxiv.org/abs/2405.10242) [[TQC 2024]](https://www.youtube.com/watch?v=HMrqT0Svfzs)[[Colt 2025]](https://learningtheory.org/colt2025/)
+[Nai-Hui Chia](https://sites.google.com/view/naihuichia),  **Daniel Liang**, [Fang Song](https://fangsong.info/)<br />[[arXiv]](https://arxiv.org/abs/2405.10242) [[TQC 2024]](https://www.youtube.com/watch?v=HMrqT0Svfzs) [[Colt 2025]](https://learningtheory.org/colt2025/)
 1. ### Agnostic Tomography of Stabilizer Product States
 [Sabee Grewal](https://sabeegrewal.com/), [Vishnu Iyer](https://vishnuiyer.org/), [William Kretschmer](https://wkretschmer.github.io/), **Daniel Liang**<br />[[arXiv]](https://arxiv.org/abs/2404.03813)
 1. ### Pseudoentanglement Ain't Cheap
