@@ -17,7 +17,7 @@ I am broadly interesting in quantum computing, complexity theory, and learning t
 Publications \[Author Order is Alphabetical unless specified by an asterisk (*)\]
 ======
 1. ### Hamiltonian Locality Testing via Trotterized Postselection
-[John Kallaugher](https://far-qc.sandia.gov/staff/john-kallaugher/), **Daniel Liang**<br />[[TQC 2025]](https://tqc-conference.org/)
+[John Kallaugher](https://far-qc.sandia.gov/staff/john-kallaugher/), **Daniel Liang**<br />[[arXiv]](https://arxiv.org/abs/2505.06478) [[TQC 2025]](https://tqc-conference.org/)
 1. ### Tolerant Testing of Stabilizer States with Mixed State Inputs
 [Vishnu Iyer](https://vishnuiyer.org/), **Daniel Liang**<br />[[arXiv]](https://arxiv.org/abs/2411.08765)
 1. ### Quantum State Learning Implies Circuit Lower Bounds
