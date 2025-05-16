@@ -16,35 +16,33 @@ I am broadly interesting in quantum computing, complexity theory, and learning t
 
 Publications \[Author Order is Alphabetical unless specified by an asterisk (*)\]
 ======
-1. ### Hamiltonian Locality Testing via Trotterized Postselection
-[John Kallaugher](https://far-qc.sandia.gov/staff/john-kallaugher/), **Daniel Liang**<br />[[arXiv]](https://arxiv.org/abs/2505.06478) [[TQC 2025]](https://tqc-conference.org/accepted-talks/)
-1. ### Tolerant Testing of Stabilizer States with Mixed State Inputs
-[Vishnu Iyer](https://vishnuiyer.org/), **Daniel Liang**<br />[[arXiv]](https://arxiv.org/abs/2411.08765)
-1. ### Quantum State Learning Implies Circuit Lower Bounds
-[Nai-Hui Chia](https://sites.google.com/view/naihuichia),  **Daniel Liang**, [Fang Song](https://fangsong.info/)<br />[[arXiv]](https://arxiv.org/abs/2405.10242) [[COLT 2025]](https://learningtheory.org/colt2025/) \[TQC 2024\]<br />My talk at TQC [(link)](https://www.youtube.com/watch?v=HMrqT0Svfzs) 
-1. ### Agnostic Tomography of Stabilizer Product States
-[Sabee Grewal](https://sabeegrewal.com/), [Vishnu Iyer](https://vishnuiyer.org/), [William Kretschmer](https://wkretschmer.github.io/), **Daniel Liang**<br />[[arXiv]](https://arxiv.org/abs/2404.03813)
-1. ### Pseudoentanglement Ain't Cheap
-[Sabee Grewal](https://sabeegrewal.com/), [Vishnu Iyer](https://vishnuiyer.org/), [William Kretschmer](https://wkretschmer.github.io/), **Daniel Liang**<br />[[arXiv]](https://arxiv.org/abs/2404.00126) \[TQC 2024\]<br />My talk at TQC [(link)](https://www.youtube.com/watch?v=ixe-9UQsGU8)
-1. ### Efficient Learning of Quantum States Prepared With Few Non-Clifford Gates
-[Sabee Grewal](https://sabeegrewal.com/), [Vishnu Iyer](https://vishnuiyer.org/), [William Kretschmer](https://wkretschmer.github.io/), **Daniel Liang**<br />[[arXiv]](https://arxiv.org/abs/2305.13409) \[QIP 2024\]<br />My Talk at IPAM [(link)](https://www.youtube.com/watch?v=TxRXHIHmSZU) William's talk at Simons [(link)](https://www.youtube.com/watch?v=usEEKgd13OQ)
-1. ### Improved Stabilizer Estimation via Bell Difference Sampling
+1. ### Hamiltonian Locality Testing via Trotterized Postselection ([arXiv](https://arxiv.org/abs/2505.06478))
+[John Kallaugher](https://far-qc.sandia.gov/staff/john-kallaugher/), **Daniel Liang**<br />[[TQC 2025]](https://tqc-conference.org/accepted-talks/)
+1. ### Tolerant Testing of Stabilizer States with Mixed State Inputs ([arXiv](https://arxiv.org/abs/2411.08765))
+[Vishnu Iyer](https://vishnuiyer.org/), **Daniel Liang**
+1. ### Quantum State Learning Implies Circuit Lower Bounds ([arXiv](https://arxiv.org/abs/2405.10242))
+[Nai-Hui Chia](https://sites.google.com/view/naihuichia),  **Daniel Liang**, [Fang Song](https://fangsong.info/)<br />[[COLT 2025]](https://learningtheory.org/colt2025/), TQC 2024<br /> - My talk at TQC [(link)](https://www.youtube.com/watch?v=HMrqT0Svfzs) 
+1. ### Agnostic Tomography of Stabilizer Product States ([arXiv](https://arxiv.org/abs/2404.03813))
+[Sabee Grewal](https://sabeegrewal.com/), [Vishnu Iyer](https://vishnuiyer.org/), [William Kretschmer](https://wkretschmer.github.io/), **Daniel Liang**<br />
+1. ### Pseudoentanglement Ain't Cheap ([arXiv](https://arxiv.org/abs/2404.00126))
+[Sabee Grewal](https://sabeegrewal.com/), [Vishnu Iyer](https://vishnuiyer.org/), [William Kretschmer](https://wkretschmer.github.io/), **Daniel Liang**<br />TQC 2024<br /> - My talk at TQC [(link)](https://www.youtube.com/watch?v=ixe-9UQsGU8)
+1. ### Efficient Learning of Quantum States Prepared With Few Non-Clifford Gates ([arXiv](https://arxiv.org/abs/2305.13409))
+[Sabee Grewal](https://sabeegrewal.com/), [Vishnu Iyer](https://vishnuiyer.org/), [William Kretschmer](https://wkretschmer.github.io/), **Daniel Liang**<br />QIP 2024<br /> - My Talk at IPAM [(link)](https://www.youtube.com/watch?v=TxRXHIHmSZU)<br /> - William's talk at Simons [(link)](https://www.youtube.com/watch?v=usEEKgd13OQ)
+1. ### Improved Stabilizer Estimation via Bell Difference Sampling ([arXiv](https://arxiv.org/abs/2304.13915), [STOC 2024](https://doi.org/10.1145/3618260.3649738))
 [Sabee Grewal](https://sabeegrewal.com/), [Vishnu Iyer](https://vishnuiyer.org/), [William Kretschmer](https://wkretschmer.github.io/), **Daniel Liang**<br />Proceedings
-of the 56th Annual ACM Symposium on Theory of Computing (STOC 2024)<br />[[arXiv]](https://arxiv.org/abs/2304.13915) [[STOC 2024]](https://doi.org/10.1145/3618260.3649738) \[QIP 2024\]<br /> - Talks by Sabee [(STOC 2024)](https://www.youtube.com/watch?v=IQUBSyXP5I0) [(QIP 2024)](https://www.youtube.com/watch?v=FsBSuAEOkVY)
-1. ### Clifford Circuits can be Properly PAC Learned if and only if RP=NP
-**Daniel Liang**<br />Quantum 7, 1036 -- 2023<br />[[arXiv]](https://arxiv.org/abs/2204.06638) [[Quantum]](https://doi.org/10.22331/q-2023-06-07-1036)
-1. ### Low-Stabilizer-Complexity Quantum States Are Not Pseudorandom
-[Sabee Grewal](https://sabeegrewal.com/), [Vishnu Iyer](https://vishnuiyer.org/), [William Kretschmer](https://wkretschmer.github.io/), **Daniel Liang**<br />14th Innovations in Theoretical Computer Science Conference (ITCS 2023)<br />**ITCS 2023 Best Student Paper Award**<br />[[arXiv]](https://arxiv.org/abs/2209.14530) [[ITCS 2023]](https://doi.org/10.4230/LIPIcs.ITCS.2023.64)
-1. ### On the Hardness of PAC-learning stabilizer States with Noise
-[Aravind Gollakota](https://www.cs.utexas.edu/~aravindg/), **Daniel Liang**<br />Quantum 6, 640 -- 2022<br />[[arXiv]](https://arxiv.org/abs/2102.05174) [[Quantum]](https://doi.org/10.22331%2Fq-2022-02-02-640)
-1. ### * Investigating quantum approximate optimization algorithms under bang-bang protocols
-**Daniel Liang**, Li Li, [Stefan Leichenauer](https://scholar.google.com/citations?user=U_zDsW0AAAAJ&hl=en)<br />Physical Review Research 2 (3) -- 2020<br />[[arXiv]](https://arxiv.org/abs/2005.13103) [[Physical Review Research]](https://doi.org/10.1103%2Fphysrevresearch.2.033402)
-1. ### * Simulation of qubit quantum circuits via Pauli propagation ([arXiv]((https://arxiv.org/abs/1901.09070)))
-[Patrick Rall](https://patrickrall.com/), **Daniel Liang**, Jeremy Cook, [William Kretschmer](https://wkretschmer.github.io/)<br />Physical Review A 99 (6) -- 2019<br />[[arXiv]](https://arxiv.org/abs/1901.09070) [[Physical Review A]](https://doi.org/10.1103%2Fphysreva.99.062337)
+of the 56th Annual ACM Symposium on Theory of Computing (STOC 2024)<br />QIP 2024<br /> - Talks by Sabee [(QIP 2024)](https://www.youtube.com/watch?v=FsBSuAEOkVY) [(STOC 2024)](https://www.youtube.com/watch?v=IQUBSyXP5I0)
+1. ### Clifford Circuits can be Properly PAC Learned if and only if RP=NP ([arXiv](https://arxiv.org/abs/2204.06638), [Journal](https://doi.org/10.22331/q-2023-06-07-1036))
+**Daniel Liang**<br />Quantum 7, 1036 -- 2023<br />QTML 2022
+1. ### Low-Stabilizer-Complexity Quantum States Are Not Pseudorandom ([arXiv](https://arxiv.org/abs/2209.14530), [ITCS 2023](https://doi.org/10.4230/LIPIcs.ITCS.2023.64))
+[Sabee Grewal](https://sabeegrewal.com/), [Vishnu Iyer](https://vishnuiyer.org/), [William Kretschmer](https://wkretschmer.github.io/), **Daniel Liang**<br />14th Innovations in Theoretical Computer Science Conference (ITCS 2023)<br />**ITCS 2023 Best Student Paper Award**<br /> - Talk by Sabee [(link)](https://www.youtube.com/watch?v=-osdMWjIcq8)
+1. ### On the Hardness of PAC-learning stabilizer States with Noise ([arXiv](https://arxiv.org/abs/2102.05174), [Journal](https://doi.org/10.22331%2Fq-2022-02-02-640))
+[Aravind Gollakota](https://www.cs.utexas.edu/~aravindg/), **Daniel Liang**<br />Quantum 6, 640 -- 2022
+1. ### * Investigating quantum approximate optimization algorithms under bang-bang protocols ([arXiv](https://arxiv.org/abs/2005.13103), [Journal](https://doi.org/10.1103%2Fphysrevresearch.2.033402))
+**Daniel Liang**, Li Li, [Stefan Leichenauer](https://scholar.google.com/citations?user=U_zDsW0AAAAJ&hl=en)<br />Physical Review Research 2 (3) -- 2020
+1. ### * Simulation of qubit quantum circuits via Pauli propagation ([arXiv](https://arxiv.org/abs/1901.09070), [Journal](https://doi.org/10.1103%2Fphysreva.99.062337))
+[Patrick Rall](https://patrickrall.com/), **Daniel Liang**, Jeremy Cook, [William Kretschmer](https://wkretschmer.github.io/)<br />Physical Review A 99 (6) -- 2019
 {: reversed="reversed"}
 
 Dissertation
 ======
-- ### On Computationally Efficient Learning for Stabilizers and Beyond
-[[Updated]](/files/pdf/Dissertation.pdf) [[Original]](https://doi.org/10.26153/tsw/49973)
-
+- ### On Computationally Efficient Learning for Stabilizers and Beyond ([Updated](/files/pdf/Dissertation.pdf), [Official](https://doi.org/10.26153/tsw/49973))
