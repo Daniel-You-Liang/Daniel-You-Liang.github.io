@@ -17,11 +17,11 @@ I am broadly interesting in quantum computing, complexity theory, and learning t
 Publications \[Author Order is Alphabetical unless specified by an asterisk (*)\]
 ======
 1. ### Hamiltonian Locality Testing via Trotterized Postselection ([arXiv](https://arxiv.org/abs/2505.06478))
-[John Kallaugher](https://far-qc.sandia.gov/staff/john-kallaugher/), **Daniel Liang**<br />*To appear in [[TQC 2025]](https://tqc-conference.org/accepted-talks/)*
+[John Kallaugher](https://far-qc.sandia.gov/staff/john-kallaugher/), **Daniel Liang**<br />*To appear in [TQC 2025](https://tqc-conference.org/accepted-talks/)*
 1. ### Tolerant Testing of Stabilizer States with Mixed State Inputs ([arXiv](https://arxiv.org/abs/2411.08765))
 [Vishnu Iyer](https://vishnuiyer.org/), **Daniel Liang**
 1. ### Quantum State Learning Implies Circuit Lower Bounds ([arXiv](https://arxiv.org/abs/2405.10242))
-[Nai-Hui Chia](https://sites.google.com/view/naihuichia),  **Daniel Liang**, [Fang Song](https://fangsong.info/)<br />*To appear in [[COLT 2025]](https://learningtheory.org/colt2025/)*<br />TQC 2024<br /> - My talk at TQC'24 [(link)](https://www.youtube.com/watch?v=HMrqT0Svfzs)
+[Nai-Hui Chia](https://sites.google.com/view/naihuichia),  **Daniel Liang**, [Fang Song](https://fangsong.info/)<br />*To appear in [COLT 2025](https://learningtheory.org/colt2025/)*<br />TQC 2024<br /> - My talk at TQC'24 [(link)](https://www.youtube.com/watch?v=HMrqT0Svfzs)
 1. ### Agnostic Tomography of Stabilizer Product States ([arXiv](https://arxiv.org/abs/2404.03813))
 [Sabee Grewal](https://sabeegrewal.com/), [Vishnu Iyer](https://vishnuiyer.org/), [William Kretschmer](https://wkretschmer.github.io/), **Daniel Liang**<br />
 1. ### Pseudoentanglement Ain't Cheap ([arXiv](https://arxiv.org/abs/2404.00126))
