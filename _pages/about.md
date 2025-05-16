@@ -32,7 +32,7 @@ Publications \[Author Order is Alphabetical unless specified by an asterisk (*)\
 [Sabee Grewal](https://sabeegrewal.com/), [Vishnu Iyer](https://vishnuiyer.org/), [William Kretschmer](https://wkretschmer.github.io/), **Daniel Liang**<br />*Proceedings
 of the 56th Annual ACM Symposium on Theory of Computing (STOC 2024)*<br />QIP 2024<br /> - Talks by Sabee [(QIP'24)](https://www.youtube.com/watch?v=FsBSuAEOkVY) [(STOC'24)](https://www.youtube.com/watch?v=IQUBSyXP5I0)
 1. ### Clifford Circuits can be Properly PAC Learned if and only if RP=NP ([arXiv](https://arxiv.org/abs/2204.06638), [Journal](https://doi.org/10.22331/q-2023-06-07-1036))
-**Daniel Liang**<br />*Quantum 7, 1036 -- 2023*<br />QTML 2022
+**Daniel Liang**<br />*Quantum 7, 1036 -- 2023*
 1. ### Low-Stabilizer-Complexity Quantum States Are Not Pseudorandom ([arXiv](https://arxiv.org/abs/2209.14530), [ITCS 2023](https://doi.org/10.4230/LIPIcs.ITCS.2023.64))
 [Sabee Grewal](https://sabeegrewal.com/), [Vishnu Iyer](https://vishnuiyer.org/), [William Kretschmer](https://wkretschmer.github.io/), **Daniel Liang**<br />*14th Innovations in Theoretical Computer Science Conference (ITCS 2023)*<br />**ITCS 2023 Best Student Paper Award**<br /> - Talk by Sabee [(link)](https://www.youtube.com/watch?v=-osdMWjIcq8)
 1. ### On the Hardness of PAC-learning stabilizer States with Noise ([arXiv](https://arxiv.org/abs/2102.05174), [Journal](https://doi.org/10.22331%2Fq-2022-02-02-640))
