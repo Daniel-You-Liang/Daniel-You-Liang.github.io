@@ -20,7 +20,7 @@ Publications \[Author Order is Alphabetical unless specified by an asterisk (*)\
 [John Kallaugher](https://far-qc.sandia.gov/staff/john-kallaugher/), **Daniel Liang**<br />*To appear in [TQC 2025](https://tqc-conference.org/accepted-talks/)*
 1. ### Tolerant Testing of Stabilizer States with Mixed State Inputs ([arXiv](https://arxiv.org/abs/2411.08765))
 [Vishnu Iyer](https://vishnuiyer.org/), **Daniel Liang**
-1. ### Quantum State Learning Implies Circuit Lower Bounds ([arXiv](https://arxiv.org/abs/2405.10242) [COLT 2025](https://proceedings.mlr.press/v291/chia25a.html))
+1. ### Quantum State Learning Implies Circuit Lower Bounds ([arXiv](https://arxiv.org/abs/2405.10242), [COLT 2025](https://proceedings.mlr.press/v291/chia25a.html))
 [Nai-Hui Chia](https://sites.google.com/view/naihuichia),  **Daniel Liang**, [Fang Song](https://fangsong.info/)<br />*Proceedings
 of the Thirty Eighth Conference on Learning Theory (COLT 2025)*<br />TQC 2024<br /> - My talk at TQC'24 [(link)](https://www.youtube.com/watch?v=HMrqT0Svfzs)
 1. ### Agnostic Tomography of Stabilizer Product States ([arXiv](https://arxiv.org/abs/2404.03813))
