@@ -86,13 +86,13 @@ analytics:
 author:
   name             : "Daniel Liang"
   avatar           : "profile.jpg"
-  bio              : "Postdoctoral Fellow"
+  bio              : "Technical Staff"
   location         :
-  employer         :
+  employer         : "MIT Lincoln Labs"
   pubmed           :
   orcid            : "http://orcid.org/0000-0002-7418-0468"
   googlescholar    : "https://scholar.google.com/citations?user=Y3Nhg5kAAAAJ&hl"
-  email            : 
+  email            : "daniel.liang@ll.mit.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
