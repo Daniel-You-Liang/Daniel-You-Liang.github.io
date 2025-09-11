@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Technical Staff member at MIT Lincoln Lab's Quantum-Enabled Computation. Previously, I was a Postdoctoral Researcher jointly supervised by Dr. [Nai-Hui Chia](https://sites.google.com/view/naihuichia) at Rice University and Dr. [Fang Song](https://fangsong.info/) at Portland State University. I earned a PhD in Computer Science at UT Austin while advised by [Scott Aaronson](https://www.scottaaronson.com/). Prior to that, I received a Bachelor of Science in Engineering from Cornell University in both Computer Science and Engineering Physics.
+I am a Technical Staff member at MIT Lincoln Lab's Quantum-Enabled Computation group. Previously, I was a Postdoctoral Researcher jointly supervised by Dr. [Nai-Hui Chia](https://sites.google.com/view/naihuichia) at Rice University and Dr. [Fang Song](https://fangsong.info/) at Portland State University. I earned a PhD in Computer Science at UT Austin while advised by [Scott Aaronson](https://www.scottaaronson.com/). Prior to that, I received a Bachelor of Science in Engineering from Cornell University in both Computer Science and Engineering Physics.
 
 Research Interests
 ======
