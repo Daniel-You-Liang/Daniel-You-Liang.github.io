@@ -15,6 +15,8 @@ I am broadly interesting in quantum computing, complexity theory, and learning t
 
 Publications \[Author Order is Alphabetical unless specified by an asterisk (*)\]
 ======
+1. ### Query-Optimal Estimation of Unitary Channels via Pauli Dimensionality ([arXiv](https://arxiv.org/abs/2510.00168))
+[Sabee Grewal](https://sabeegrewal.com/), **Daniel Liang**
 1. ### Hamiltonian Locality Testing via Trotterized Postselection ([arXiv](https://arxiv.org/abs/2505.06478), [TQC 2025](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.TQC.2025.10))
 [John Kallaugher](https://far-qc.sandia.gov/staff/john-kallaugher/), **Daniel Liang**<br />*20th Conference on the Theory of Quantum Computation, Communication and Cryptography (TQC 2025)*
 1. ### Tolerant Testing of Stabilizer States with Mixed State Inputs ([arXiv](https://arxiv.org/abs/2411.08765))
