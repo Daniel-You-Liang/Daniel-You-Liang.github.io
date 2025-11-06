@@ -40,7 +40,7 @@ Daniel Liang<br />*Quantum 7, 1036 -- 2023*<br />**QTML 2022**
 1. ### On the Hardness of PAC-learning stabilizer States with Noise ([arXiv](https://arxiv.org/abs/2102.05174), [Journal](https://doi.org/10.22331%2Fq-2022-02-02-640))
 [Aravind Gollakota](https://www.cs.utexas.edu/~aravindg/), Daniel Liang<br />*Quantum 6, 640 -- 2022*
 1. ### * Investigating quantum approximate optimization algorithms under bang-bang protocols ([arXiv](https://arxiv.org/abs/2005.13103), [Journal](https://doi.org/10.1103%2Fphysrevresearch.2.033402))
-Daniel Liang, Li Li, [Stefan Leichenauer](https://scholar.google.com/citations?user=U_zDsW0AAAAJ&hl=en)<br />*Physical Review Research 2 (3) -- 2020*
+Daniel Liang, [Li Li](https://scholar.google.com/citations?hl=en&user=MsImb-AAAAAJ&view_op=list_works&sortby=pubdate), [Stefan Leichenauer](https://scholar.google.com/citations?user=U_zDsW0AAAAJ&hl=en)<br />*Physical Review Research 2 (3) -- 2020*
 1. ### * Simulation of qubit quantum circuits via Pauli propagation ([arXiv](https://arxiv.org/abs/1901.09070), [Journal](https://doi.org/10.1103%2Fphysreva.99.062337))
 [Patrick Rall](https://patrickrall.com/), Daniel Liang, Jeremy Cook, [William Kretschmer](https://wkretschmer.github.io/)<br />*Physical Review A 99 (6) -- 2019*
 {: reversed="reversed"}
