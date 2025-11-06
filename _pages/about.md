@@ -27,7 +27,7 @@ of the Thirty Eighth Conference on Learning Theory (COLT 2025)*<br />**TQC 2024*
 1. ### Agnostic Tomography of Stabilizer Product States ([arXiv](https://arxiv.org/abs/2404.03813))
 [Sabee Grewal](https://sabeegrewal.com/), [Vishnu Iyer](https://vishnuiyer.org/), [William Kretschmer](https://wkretschmer.github.io/), **Daniel Liang**<br />
 1. ### Pseudoentanglement Ain't Cheap ([arXiv](https://arxiv.org/abs/2404.00126))
-[Sabee Grewal](https://sabeegrewal.com/), [Vishnu Iyer](https://vishnuiyer.org/), [William Kretschmer](https://wkretschmer.github.io/), **Daniel Liang**<br />TQC 2024<br /> - My talk at TQC'24 [(link)](https://www.youtube.com/watch?v=ixe-9UQsGU8)
+[Sabee Grewal](https://sabeegrewal.com/), [Vishnu Iyer](https://vishnuiyer.org/), [William Kretschmer](https://wkretschmer.github.io/), **Daniel Liang**<br />**TQC 2024**<br /> - My talk at TQC'24 [(link)](https://www.youtube.com/watch?v=ixe-9UQsGU8)
 1. ### Efficient Learning of Quantum States Prepared With Few Non-Clifford Gates ([arXiv](https://arxiv.org/abs/2305.13409), [Journal](https://doi.org/10.22331/q-2025-11-06-1907))
 [Sabee Grewal](https://sabeegrewal.com/), [Vishnu Iyer](https://vishnuiyer.org/), [William Kretschmer](https://wkretschmer.github.io/), **Daniel Liang**<br />*Quantum 9, 1907 -- 2025*<br />**QIP 2024**<br /> - My Talk at IPAM [(link)](https://www.youtube.com/watch?v=TxRXHIHmSZU)<br /> - William's talk at Simons [(link)](https://www.youtube.com/watch?v=usEEKgd13OQ)
 1. ### Improved Stabilizer Estimation via Bell Difference Sampling ([arXiv](https://arxiv.org/abs/2304.13915), [STOC 2024](https://doi.org/10.1145/3618260.3649738))
