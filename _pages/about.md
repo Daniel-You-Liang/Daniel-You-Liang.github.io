@@ -24,8 +24,8 @@ Publications \[Author Order is Alphabetical unless specified by an asterisk (*)\
 1. ### Quantum State Learning Implies Circuit Lower Bounds ([arXiv](https://arxiv.org/abs/2405.10242), [COLT 2025](https://proceedings.mlr.press/v291/chia25a.html))
 [Nai-Hui Chia](https://sites.google.com/view/naihuichia),  Daniel Liang, [Fang Song](https://fangsong.info/)<br />*Proceedings
 of the Thirty Eighth Conference on Learning Theory (COLT 2025)*<br />**TQC 2024**<br /> - My talk at TQC'24 [(link)](https://www.youtube.com/watch?v=HMrqT0Svfzs)
-1. ### Agnostic Tomography of Stabilizer Product States ([arXiv](https://arxiv.org/abs/2404.03813))
-[Sabee Grewal](https://sabeegrewal.com/), [Vishnu Iyer](https://vishnuiyer.org/), [William Kretschmer](https://wkretschmer.github.io/), Daniel Liang<br />
+1. ### Agnostic Tomography of Stabilizer Product States ([arXiv](https://arxiv.org/abs/2404.03813), [Journal](https://doi.org/10.22331/q-2026-03-13-2027))
+[Sabee Grewal](https://sabeegrewal.com/), [Vishnu Iyer](https://vishnuiyer.org/), [William Kretschmer](https://wkretschmer.github.io/), Daniel Liang<br />*Quantum 10, 2027 - 2026*
 1. ### Lower bounds on the non-Clifford cost of pseudoentanglement ([arXiv](https://arxiv.org/abs/2404.00126), [Journal](https://doi.org/10.1103/v493-8s1q))
 [Sabee Grewal](https://sabeegrewal.com/), [Vishnu Iyer](https://vishnuiyer.org/), [William Kretschmer](https://wkretschmer.github.io/), Daniel Liang<br />*Physical Review A 113 (1) -- 2026*<br />**TQC 2024**<br /> - My talk at TQC'24 [(link)](https://www.youtube.com/watch?v=ixe-9UQsGU8)
 1. ### Efficient Learning of Quantum States Prepared With Few Non-Clifford Gates ([arXiv](https://arxiv.org/abs/2305.13409), [Journal](https://doi.org/10.22331/q-2025-11-06-1907))
